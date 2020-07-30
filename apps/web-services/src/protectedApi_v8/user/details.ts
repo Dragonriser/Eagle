@@ -167,7 +167,7 @@ detailsApi.post('/detailV1', async (req, res) => {
 detailsApi.get('/detailV2', async (req, res) => {
   const _rootOrg = req.header('rootOrg')
   const wid = extractUserIdFromRequest(req)
-  const url = `http://10.177.22.26:9200/user/multi-fetch/wid`
+  const url = `http://IP/user/multi-fetch/wid`
   try {
     if (!_rootOrg) {
       res.status(400).send(ERROR.ERROR_NO_ORG_DATA)

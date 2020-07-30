@@ -15,7 +15,7 @@ export class Gulpfile {
     sonarqubeScanner(
       {
         options: {},
-        serverUrl: 'http://10.177.157.45:3000/',
+        serverUrl: ,
         token: '8cfe2cd380b8a8d908f0dc4a179469e27920eae1',
       },
       cb
