@@ -1,9 +1,0 @@
-{
-	"realm": "sunbird",
-	"auth-server-url": "",
-	"ssl-required": "none",
-	"resource": "portal",
-	"public-client": true,
-	"use-resource-role-mappings": true,
-	"idp-hint": "C"
-}
