@@ -1,0 +1,3 @@
+[submodule "eagle-authoring-kafka-consumers"]
+	path = eagle-authoring-kafka-consumers
+	url = https://github.com/Infosys/eagle-authoring-kafka-consumers.git
