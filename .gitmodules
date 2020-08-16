@@ -1,3 +1,54 @@
 [submodule "eagle-authoring-kafka-consumers"]
 	path = eagle-authoring-kafka-consumers
 	url = https://github.com/Infosys/eagle-authoring-kafka-consumers.git
+[submodule "apps/eagle-file-exhaust-service"]
+	path = apps/eagle-file-exhaust-service
+	url = https://github.com/Infosys/eagle-file-exhaust-service.git
+[submodule "apps/eagle-lex-external-api-service-"]
+	path = apps/eagle-lex-external-api-service-
+	url = https://github.com/Infosys/eagle-lex-external-api-service-.git
+[submodule "apps/eagle-web-v4"]
+	path = apps/eagle-web-v4
+	url = https://github.com/Infosys/eagle-web-v4.git
+[submodule "apps/eagle-web-services"]
+	path = apps/eagle-web-services
+	url = https://github.com/Infosys/eagle-web-services.git
+[submodule "apps/eagle-social-forum"]
+	path = apps/eagle-social-forum
+	url = https://github.com/Infosys/eagle-social-forum.git
+[submodule "apps/eagle-sb-ext-actors"]
+	path = apps/eagle-sb-ext-actors
+	url = https://github.com/Infosys/eagle-sb-ext-actors.git
+[submodule "apps/eagle-notifications-module"]
+	path = apps/eagle-notifications-module
+	url = https://github.com/Infosys/eagle-notifications-module.git
+[submodule "apps/eagle-ws-ios"]
+	path = apps/eagle-ws-ios
+	url = https://github.com/Infosys/eagle-ws-ios.git
+[submodule "apps/eagle-ws-android"]
+	path = apps/eagle-ws-android
+	url = https://github.com/Infosys/eagle-ws-android.git
+[submodule "apps/eagle-lex-core-service"]
+	path = apps/eagle-lex-core-service
+	url = https://github.com/Infosys/eagle-lex-core-service.git
+[submodule "apps/eagle-learning-analytics"]
+	path = apps/eagle-learning-analytics
+	url = https://github.com/Infosys/eagle-learning-analytics.git
+[submodule "apps/eagle-hierarchy-service"]
+	path = apps/eagle-hierarchy-service
+	url = https://github.com/Infosys/eagle-hierarchy-service.git
+[submodule "apps/eagle-fusion"]
+	path = apps/eagle-fusion
+	url = https://github.com/Infosys/eagle-fusion.git
+[submodule "apps/eagle-content-service"]
+	path = apps/eagle-content-service
+	url = https://github.com/Infosys/eagle-content-service.git
+[submodule "apps/eagle-client-assets"]
+	path = apps/eagle-client-assets
+	url = https://github.com/Infosys/eagle-client-assets.git
+[submodule "apps/eagle_authoring_services"]
+	path = apps/eagle_authoring_services
+	url = https://github.com/Infosys/eagle_authoring_services.git
+[submodule "apps/eagle-authoring-kafka-consumers"]
+	path = apps/eagle-authoring-kafka-consumers
+	url = https://github.com/Infosys/eagle-authoring-kafka-consumers.git
